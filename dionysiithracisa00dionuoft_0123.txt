@@ -1,0 +1,64 @@
+5
+
+DE SYLL. COMMVNIBVS DE PARTIBVS ORATIONIS 23
+
+Τοῦ δὲ λόγου μέρη ἐςτὶν ὀκτώ· ὄνομα, ῥῆμα, μετοχή, ἄρθρον,
+ἀντωνυμία, πρόθεςις, ἐπίρρημα, ςύνδεςμος. ἡ γὰρ προςηγορία ’ὡς εἶδος
+τῷ ὀνόματι ὑποβέβληται.
+
+ 
+
+[macarium scmrrvnffl IN LGBVHAfb] 1 ἐςτὶν LG: εἰςὶν Β, om VHAfb
+Η 2 ante ςύνδεςμος add καί HAfb ll 2-8 ἡ γὰρ - ὑποβέβληται om VHAf
+Η 3 ὑπερβέβληται G3 deinde sequuntur in GB: τῶν δέ μερῶν τοῦ λόγου κλίνε-
+ται μὲν ἓ. ὄνομα. ῥῆμα. μετοχή. ἄρθρον. ἀντωνυμία. ἄκλιτα δὲ Ῠ. πρόθεςις. enip-
+ρημα. ςύνδεςμος
+
+ 
+
+[Dmcnnnurun Εἰ· 'rasa-monn scnomon. (Σλ) Ειιοτεκᾼτπι (Ε) ᾼιῐοιινια semerom]
+ἡ γὰρ ἔμμετρος ςύνθεςις τῶν λέξεων τελείαν ἔννοιαν (sic UHUn, τελείας ἐννοίας
+b) ςημαίνουςα περίοδος καλεῖται. neque Σ 84οη (Steph): τοῦτο ἐκβάλλει τοὺς
+ἐμμέτρους. ὁριςτέον οὖν οὕτως· ςύνθεςις λέξεων κατάλληλον διάνοιαν ἀπαρτί·
+ζουςα (lege κατάλληλος). neque Σ in V11: μεμπτέος ,ἄγαν ὁ τεχνικός, καθὸ τὸν
+λόγον πεζῆς λέξεως ςὺνθεςιν εἶπεν· εἰ γὰρ οὕτω δεξόμεθα, ἐκβάλλομεν καὶ ἀθε·
+τοῦμεν τοὺς ἐμμέτρους λόγους. neque habent verba Eg aut Zonaras 1315; sed
+habent Ε ¹² E ² epitoma (in Ev totum enuntiatum, in σ tota paragraphus deest).
+atque in erotematis Vindobonensibus ex quibus excerpta MSchmidt Philol. VIII
+517 edidit, haec legimus, τί ἐςτι λόγος; ςύνθεςις λέξεων κατάλληλος διάνοιαν
+,ἀπαρτίζουςα (v. Stephani scholion). καὶ ἄλλως· πεζῆς τε καὶ ἐμμέτρου λέξεως
+ςὺνθ. δ. αὐτ. δηλοῠςα. Iam dubitari nequit, quin additamentum τε καί ἐμμέτρου
+Moschopulo debeatur, cuius διορθώςει mutata legimus erotemata in ΕΙ). vide quae
+in B codice appicta rubro sunt, et cfr praef. de ratione quae intercedit inter
+Eb epitomam Et deteriores artis codices. pluralem genetivum λέξεων, quem
+Stephanus flagitat, habent complures grammatici inferioris et infimae aeta-
+tis. Mich. Syngelus [Georgius Lecapenus] περὶ ςυντάξεως fol 171 v: λόγος ἡ
+αὐτοτελῆ διάνοιαν δηλοῦςα τῶν λέξεων παράθεςις (fol 1721 ςύνθεςις). in byblio-
+thecae Angelicanae codice C 5, 3 inest Γεωργίου ςχολαρίου Κωνςταντινοπολίτου
+περὶ τῶν ὀκτὼ μερῶν τοῦ λόγου προθεωρία, ubi legis in fol 7 r λέξις ἐςτὶ πεζῶν
+ἢ ἐμμέτρων λέξεων ςύνθεςις διάν. αὐτ. δηλοῦςα. eiusdem bybl. codex A 4, 3
+eundem librum, sed haud paucis locis mutatum continet: ibi definitur λέξεων
+πολλῶν ἢ δύο τούλάχιςτον ςύνθ. δ. αὐτ. δηλοῡςα. Chrysoloras erotem. p 6: λέξεων
+ςύνθεςις διάν. αὐτοτ. δηλοῡςα, eademque Const. Lascaris p 3. — Ex latinorum
+grammaticorum definitionibus nulla eam quae ante Moschopulum vulgata erat,
+nulla Moschopuliam reddit. Cum Stephano concinit Diomedes I 30018: com·
+positio dictionum consummans sententiam; Apollonii def. transtulit Priscian.
+II 5323: oratio est ordinatio dictionum confi-ua, sententiam perfectam demonstrans
+(= λόγος ἐςτὶ ςύνταξις λέξεων κατάλληλος διάνοιαν αὐτοτ. δηλ.) ΙΙ 2 ἡ
+γὰρ προςηγορία —- ὑποβέβληται legebant Σ 842„ (Mel) et 842,9 (Steph) et 672,2;
+om E, cum, quid sibi illa verba vellent, inferiore aetate non intellegeretur.
+vide indicem s. προςηγορία. Quinctilianus 14 ξ 20: alii tamen ex idoneis aueto-
+ribus octo partes secuti sunt, ut Aristarchus et aetate nostra Palaemon, qui voca-
+bulum sive appellationem nomini subiecerunt tamquam speciem eius (nam sic, non
+speeies, cum Spaldingio scribendum). quae quamquam plane cum Dionysianis
+concinunt, tamen non credo hunc artis locum a Quinctiliano exscriptum et pro
+discipulo magistrum laudatum esse, sed rhetorem Palaemonis tantummodo
+librum ante oeulos habuisse puto illumque Dionysio usum tale quid dixisse:
+Aristarchus et qui eius partes seiluebantwr, velut Dionysius, recte vocabulum eqs.
+cfr praef. ΙΙ 3 eorum, quae in fine paragraphi codices (ΞΒ adiciunt, in Σ nul-
+lum vestigium est, sed habent eadem Eb in ed. pr. (et Lasc. p 3 et Chalcond. p 6).
+
+ 
+
+[Lacrxomzs numu] 2-3 ἡ γὰρ προςηγορία —- ὑποβέβληται legebat; non lege·
+

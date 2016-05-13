@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dionysiithracisa00dionuoft_0319.png"; bbox 0 0 2808 4394; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 988 1921 1662 2016">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 988 1921 1662 2016">
+     <span class='ocr_line' id='line_1_1' title="bbox 988 1921 1662 2016; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 988 1933 1352 2016; x_wconf 55' lang='lat' dir='ltr'>PAGINAS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1389 1951 1618 2015; x_wconf 76' lang='lat' dir='ltr'>BmAs</span> <span class='ocrx_word' id='word_1_3' title='bbox 1659 1921 1662 1922; x_wconf 4' lang='grc' dir='ltr'><em>ἢ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 484 2126 2212 2291">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 290 2122 2286 2292">
+     <span class='ocr_line' id='line_1_2' title="bbox 484 2126 2212 2291; baseline 0.021 -63.015"><span class='ocrx_word' id='word_1_4' title='bbox 484 2163 813 2249; x_wconf 72' lang='lat' dir='ltr'>EXEMP</span> <span class='ocrx_word' id='word_1_5' title='bbox 652 2163 681 2166; x_wconf 62' lang='grc'><strong>·“</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 711 2254 724 2258; x_wconf 4' lang='grc' dir='ltr'><strong>ἢ,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 780 2126 1194 2252; x_wconf 75' lang='lat' dir='ltr'><strong>*LARIVM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1243 2152 2153 2258; x_wconf 71' lang='lat' dir='ltr'><strong>VETVSTISSIMORVM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2175 2262 2178 2264; x_wconf 72' lang='grc'>,</span> <span class='ocrx_word' id='word_1_10' title='bbox 2210 2289 2212 2291; x_wconf 11' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 700 2350 1691 2454">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 700 2350 1691 2479">
+     <span class='ocr_line' id='line_1_3' title="bbox 700 2350 1691 2454; baseline 0.008 -14"><span class='ocrx_word' id='word_1_11' title='bbox 700 2386 742 2453; x_wconf 67' lang='grc' dir='ltr'>ῃ</span> <span class='ocrx_word' id='word_1_12' title='bbox 798 2368 809 2391; x_wconf 75' lang='lat'><em>³</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 891 2375 913 2436; x_wconf 77' lang='lat'>4</span> <span class='ocrx_word' id='word_1_14' title='bbox 945 2350 1691 2454; x_wconf 52' lang='lat' dir='ltr'><strong>REPRAESEN&#39;TANTES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2808 4394">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2808 4394">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2808 4394; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2808 4394; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
